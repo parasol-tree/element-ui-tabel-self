@@ -8,6 +8,7 @@
 # install dependencies
 yarn install
 吗卖批是  yarn install别弄错了
+造轮子陷入停滞， 开发中。。。
 
 # serve with hot reload at localhost:8080
 npm run dev
